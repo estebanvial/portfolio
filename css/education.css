@@ -1,0 +1,71 @@
+/* EDUCATION */
+#education {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 8%;
+    overflow: hidden;
+    background-color: #f2f2f2;
+  }
+  
+.main {
+    width: 35%;
+    margin-right: 5%;
+    float: left;
+  }
+  
+.main h2 {
+    margin: 25px 0 20px 40px;
+    color: #555;
+  }
+  
+.main > p {
+    margin: 0px 0px 10px 40px;
+    line-height: 1.6;
+    color: #666;
+  }
+  
+  .main > p:last-of-type {
+    margin-top: 25px;
+  }
+  
+  .exp {
+    width: 45%;
+    float: left;
+    padding-right: 1%;
+    padding-left: 7%;
+  }
+  
+  .exp h3 {
+    margin-top: 74px;
+    margin-bottom: 10px;
+    color: #555;
+  }
+  
+  .exp span {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .exp span:first-of-type {
+    color: #999;
+  }
+  
+  .exp span:last-of-type {
+    background-color: #318CE7;
+    color: #fff;
+    display: inline-block;
+    padding: 4px 10px;
+  }
+  
+  .exp hr {
+    margin: 20px 0;
+    background-color: #999;
+    height: 1px;
+    border: 0;
+  }
+  
+  .exp p {
+    line-height: 1.7;
+    color: #777;
+  }
+  /* END EDUCATION */
